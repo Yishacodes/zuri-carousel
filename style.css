@@ -19,14 +19,12 @@ div{
     top: 400px;
     right:870px;
     width: auto;
-    margin-top:0;
     padding: 16px;
     color: rgb(211, 13, 13);
     font-weight: bold;
     font-size: 30px;
     opacity: 0;
     border-radius: 0 3px 3px 0;
-    user-select: none;
   }
   .next {
     right: 430px;
