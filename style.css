@@ -17,18 +17,18 @@ div{
     cursor: pointer;
     position: absolute;
     top: 400px;
-    right:870px;
+    right:850px;
     width: auto;
     padding: 16px;
     color: rgb(211, 13, 13);
     font-weight: bold;
     font-size: 55px;
-    opacity: 0;
+    opacity: 1;
     border-radius: 0 3px 3px 0;
     user-select: none;
   }
   .next {
-    right: 430px;
+    right: 420px;
     border-radius: 3px 0 0 3px;
   }
   .next:hover{
